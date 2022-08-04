@@ -1,2 +1,2 @@
 # first-web-page
-Moja prva ikad web stranica, rađena u HTML-u i CSS-u.
+My first web page ever, coded using HTML & CSS. 
